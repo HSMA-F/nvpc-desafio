@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nvpc-desafio/static/css/main.60f40483.css",
+    "main.js": "/nvpc-desafio/static/js/main.3ed06b3f.js",
+    "index.html": "/nvpc-desafio/index.html",
+    "main.60f40483.css.map": "/nvpc-desafio/static/css/main.60f40483.css.map",
+    "main.3ed06b3f.js.map": "/nvpc-desafio/static/js/main.3ed06b3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f40483.css",
+    "static/js/main.3ed06b3f.js"
+  ]
+}
